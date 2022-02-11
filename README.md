@@ -1,2 +1,2 @@
 # flask-auth
-Sistema de autenticação em Python e o Framework Flask e conectando com o banco de dados Mysql.
+Sistema de autenticação em Python e o Framework Flask, conectando com o banco de dados Mysql.
